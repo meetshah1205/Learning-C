@@ -97,4 +97,6 @@ There are only 32 keywords in C language they are:
 
 ## Basic structure of a C program
 ### Refer to first.c
-```c int main()``` is the place where the execution of our program starts.
+
+``` int main() ```
+is the place where the execution of our program starts.
