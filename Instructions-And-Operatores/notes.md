@@ -2,11 +2,11 @@
 
 ## Mostly there are 3 types of instructions in C
 ### 1. Type declaration instructions
-Like ``` int ```, ``` float```, ``` char``` etc.
+Like ```int```, ```float```, ```char``` etc.
 ### 2. Arithmetic Instructions
-Like ``` +``` (plus), ``` -``` (minus), ``` *``` (multiplication) etc.
+Like ```+``` (plus), ```-``` (minus), ```*``` (multiplication) etc.
 ### 3. Control Flow instructions
-Like ```for loop```, ``` while loop``` etc. which tell what to execute first.
+Like ```for loop```, ```while loop``` etc. which tell what to execute first.
 
 ## Type declaration operators in action
 You can see <a href="./Instructions/type-declaration-instructions.c">``` type-declaration-instructions.c``` File by click here. </a>
