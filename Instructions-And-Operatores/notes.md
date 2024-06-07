@@ -47,7 +47,7 @@ In many programming languages there are exponentition operators. Like in Python:
 ```Py
 a = 2**3
 ```
-Retrns 2^3 which is 8 (2*2*2 = 8).
+Retrns 2^3 which is 8 (2```*```2```*```2 = 8).
 
 But in C, there is no exponentition operator.
 But if we really want to do exponentiation in C, we can do this:
