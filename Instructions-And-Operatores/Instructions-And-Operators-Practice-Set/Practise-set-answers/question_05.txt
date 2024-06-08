@@ -1,0 +1,1 @@
+Answer will be a float because as shown in question 02, any operation between an int and a float returns float.

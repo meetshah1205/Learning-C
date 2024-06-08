@@ -1,0 +1,1 @@
+Answer depends on the compiler, but most compilers will treat any decimal number as a double. So the answer is it will return a double or a float (both are correct).
