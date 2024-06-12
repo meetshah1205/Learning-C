@@ -1,0 +1,2 @@
+I already know the basics of C++, Java, Rust etc. and intermidiate Python and JS, it's not like conditionals here are any different than in C++ or Java or Rust or JS. <br> <br> <br> <br>
+<img src="https://i.pinimg.com/736x/ec/0a/48/ec0a48d804f175db5e38b602dc9caf1b.jpg">

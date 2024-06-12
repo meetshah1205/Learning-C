@@ -1,0 +1,2 @@
+True
+Yes different types of lopps are given in C just for the convinience of the programmer.
