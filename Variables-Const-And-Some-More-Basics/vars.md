@@ -3,7 +3,8 @@
 ### After we write our code in C file, we run these commands in our terminal
 
 ```sh
-gcc first.c
+gcc first.c -o first.exe # Windows only
+gcc second.c -o first.out # Mac/Linux only
 ```
 
 For Windows:
